@@ -1,16 +1,56 @@
-## Hi there 👋
+# Olá, mundo! Eu sou José Augusto 👋
 
-<!--
-**joseaugusto-cloud/joseaugusto-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Cloud Computing, Linux e Redes focado em infraestrutura e tecnologias cloud. ☁️ 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Atualmente estudando
+
+- Google Cloud Platform (GCP) - Concluído!
+- Linux Essentials - Em andamento...
+- Linux Unhatched - Em andamento...
+- Redes de Computadores - Em andamento...
+- Infraestrutura Linux - Em andamento...
+
+---
+
+## ☁️ Tecnologias
+
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-black?style=for-the-badge&logo=googlecloud)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=ubuntu)
+
+---
+
+## 📚 Certificações e Cursos
+
+- Google Cloud Computing
+- Cisco Networking Academy
+  - Linux Essentials
+  - Linux Unhatched
+  - Técnico em Redes
+
+---
+
+## 📂 Projetos
+
+- Laboratórios Linux
+- Estudos de Redes
+- Labs Google Cloud
+- Scripts Bash
+- Projetos de Infraestrutura
+
+---
+
+## 🎯 Objetivo
+
+Desenvolver experiência prática em Cloud Computing, Linux, Infraestrutura e Redes para atuar profissionalmente na área de tecnologia em nuvem!
+
+---
+
+## 📫 Contato
+
+LinkedIn: https://www.linkedin.com/in/joseaugustovc/
